@@ -1,0 +1,3 @@
+docker ps
+docker stop <the-container-id>
+docker rm <the-container-id>
