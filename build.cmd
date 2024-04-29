@@ -1,1 +1,1 @@
-docker build -t getting-started .
+docker build --platform linux/amd64 -t arkarin0/getting-started .
